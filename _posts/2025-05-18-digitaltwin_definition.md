@@ -1,6 +1,6 @@
 ---
+layout: single
 title: "디지털트윈이란?"
-date: 2025-05-18 10:00:00 +0900
 categories: [디지털트윈]
 tags: [Digital Twin, 스마트제조, 산업AI]
 author: Yohan Choi
