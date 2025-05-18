@@ -13,3 +13,8 @@ main:
         url: /categories/AI/
       - title: "디지털 트윈"
         url: /categories/디지털트윈/
+
+        
+   - title: "태그"
+     url: /tags/
+
