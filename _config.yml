@@ -28,9 +28,7 @@ repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-m
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : /assets/images/logo.png
 
-masthead_title           : >
-  <img src="/assets/images/logo.png" style="height:36px; vertical-align:middle; margin-right: 10px;">
-  <span style="vertical-align:middle;">Johnny's Tech Blog</span>
+masthead_title           :  "Johnny's Tech Blog"
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
