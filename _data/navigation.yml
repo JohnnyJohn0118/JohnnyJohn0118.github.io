@@ -5,7 +5,6 @@ main:
 
   - title: "카테고리"
     url: /categories/
-
     children:
       - title: "스마트제조"
         url: /categories/스마트제조/
@@ -14,7 +13,7 @@ main:
       - title: "디지털 트윈"
         url: /categories/디지털트윈/
 
-        
-   - title: "태그"
-     url: /tags/
+  - title: "태그"
+    url: /tags/
+
 
