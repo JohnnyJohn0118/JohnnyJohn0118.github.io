@@ -1,12 +1,15 @@
 # main links
 main:
-  #- title: "Quick-Start Guide"
-   # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Home"
+    url: /
+
+  - title: "카테고리"
+    url: /categories/
+
+    children:
+      - title: "스마트제조"
+        url: /categories/스마트제조/
+      - title: "AI"
+        url: /categories/AI/
+      - title: "디지털 트윈"
+        url: /categories/디지털트윈/
