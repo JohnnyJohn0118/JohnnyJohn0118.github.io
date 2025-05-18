@@ -29,6 +29,9 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 logo                     : /assets/images/logo.png
 
 masthead_title           :  "Johnny's Tech Blog"
+sidebar:
+  nav: "main"
+
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
